@@ -1,6 +1,6 @@
 # Portrait Brand Kit
 
-This repository contains the **official Portrait logo assets** and the standards that govern their use. Consistent application strengthens brand recognition and protects Portrait Technology Inc.’s intellectual‑property rights.
+This repository contains the **official Portrait logo assets** and the standards that govern their use.
 
 ---
 
@@ -33,7 +33,7 @@ Maintain a margin on all sides equal to **½ × the symbol’s width**. No t
 | Full logo | 80 px wide | 25 mm wide |
 
 ### 2.3  Colour
-* Use the **gradient symbol** on white, black, or Portrait Gray #111111.
+* Use the **gradient symbol** on white or black.
 * Use **monochrome variants** when colour reproduction is restricted or when the gradient cannot meet accessibility contrast requirements.
 
 ### 2.4  Backgrounds
@@ -80,17 +80,10 @@ portrait-brand-kit/
 ## 4  Legal Notice
 © 2025 Portrait Technology Inc. All rights reserved.
 
-“Portrait”, the Portrait symbol, and related marks are **trademarks or registered trademarks** of Portrait Technology Inc. in the United States and other countries.
-
 By accessing or using these assets, you agree to the following terms:
 
 1. Assets may be used **only** for purposes expressly authorised by Portrait Technology Inc. and **must remain unaltered**.
 2. Use must **not** suggest endorsement, sponsorship, or partnership by Portrait Technology Inc. without written consent.
 3. Portrait Technology Inc. reserves the right to revoke or modify permission at any time.
 
-For brand enquiries, contact **brand@portrait.tech**.
-
----
-
-_These guidelines are informed by industry best practices established by Apple, Airbnb, and other design‑led organisations._
-
+ 
